@@ -72,15 +72,21 @@ Ultima colazione in stile Tokyo: onigiri, tamagoyaki, tè verde freddo dal konbi
 
 Kyoto Station è una delle stazioni più moderne del Giappone (progetto Hiroshi Hara, 1997) — contrasto straniante con la città millenaria fuori.
 
-**Check-in hotel:** se la camera non è pronta, lascia i bagagli in deposito e inizia subito la giornata.
+### 🏡 Kyomachiya Ryokan Sakura Urushitei
+📍 425 Kichimonji-cho, Shimogyo-ku, Kyoto · 🗓️ 28 ago → 1 set (4 notti)
+🔗 [Booking.com](https://www.booking.com/hotel/jp/sakura-urushitei.it.html)
 
-**Quartieri consigliati:**
+Kyomachiya tradizionale (casa in legno storica) nel cuore di Shimogyo-ku.
 
-| Quartiere | Pro | Distanza attrazioni |
-|---|---|---|
-| **Gion** | Pittoresco, atmosfera autentica | A piedi da tutto |
-| **Kawaramachi** | Centrale, economico | Metro/bus vicino |
-| **Fushimi** | Economico, vicino a Fushimi Inari | 15 min in treno |
+| Collegamento | Dettaglio |
+|---|---|
+| Metro Shijo (Karasuma Line) | 7 min a piedi |
+| Kyoto Station | 5 min di metro da Shijo |
+| Nishiki Market | 10 min a piedi |
+| Bus per Kinkaku-ji (101/205) | Fermata Shijo Karasuma |
+
+> [!tip] Check-in
+> Se la camera non è pronta all'arrivo (11:15), lascia i bagagli in deposito e inizia subito con Nishiki Market — è a 10 minuti a piedi.
 
 ---
 
@@ -175,7 +181,7 @@ La prima cena kaiseki vera di Kyoto: 10–12 portate stagionali, presentazione a
 | Bus day pass Kyoto | ¥700 |
 | Spuntini Nishiki | ¥1.000–1.500 |
 | Cena Kikunoi Roan | ¥8.000–15.000 |
-| Hotel Kyoto (1 notte) | ¥8.000–15.000 |
+| Sakura Urushitei (1ª notte su 4) | incluso nel totale soggiorno |
 | **Totale stimato** | **¥18.000–33.000** |
 
 ---

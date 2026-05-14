@@ -253,6 +253,7 @@ JR Fushimi → Kyoto Station (15 min, ¥230) → cena in Gion o Pontochō
 ## 📌 Note pratiche
 
 - [ ] Nessuna prenotazione necessaria oggi — tutto libero
+- [ ] Base: [[Kyomachiya Ryokan Sakura Urushitei]] — Shimogyo-ku (7 min metro Shijo → Kyoto St. per i treni JR)
 - [ ] Porta contanti — i negozi di tè piccoli spesso non accettano carte
 - [ ] Domani mattina Fushimi Inari si fa alle **6:30** — alzarsi presto
 - [ ] Tieni qualche moneta da 10 yen per il confronto con il Byodoin
