@@ -3,6 +3,7 @@ tags: [giappone, viaggio, dashboard]
 banner: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1200"
 banner_y: 0.4
 cssclass: home
+permalink: index
 ---
 
 # 🗾 Giappone — Estate 2026
