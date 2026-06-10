@@ -1,5 +1,12 @@
 @use "./base.scss";
 
+// ─── Variabile arancio/ruggine (da giappone-style.css nel vault) ─────────────
+:root {
+  --accent-warm: rgba(210, 90, 10, 1);
+  --accent-warm-soft: rgba(210, 90, 10, 0.5);
+  --accent-warm-bg: rgba(210, 90, 10, 0.07);
+}
+
 // ─── Banner ──────────────────────────────────────────────────────────────────
 
 .banner-container {
@@ -21,26 +28,102 @@
   margin-top: 0 !important;
 }
 
-// Titolo subito sotto il banner, senza margine extra
 .page-header:has(.banner-container) .article-title {
   margin-top: 0.4rem;
 }
 
-// ─── Sidebar sinistra — aspetto Obsidian ────────────────────────────────────
+// ─── Tipografia ──────────────────────────────────────────────────────────────
 
-:root[saved-theme="dark"] .sidebar.left {
-  background-color: #111113;
+// H2 — bordo inferiore arancio (come home page Ukiyo)
+article h2 {
+  border-bottom: 2px solid var(--accent-warm-soft);
+  padding-bottom: 0.25em;
+  letter-spacing: 0.02em;
 }
 
-:root[saved-theme="light"] .sidebar.left {
-  background-color: #f0eeee;
+// H3 — barra sinistra arancio
+article h3 {
+  border-left: 3px solid var(--accent-warm-soft);
+  padding-left: 0.6em;
+  margin-left: -0.65em;
 }
 
-.sidebar.left {
-  border-right: 1px solid var(--lightgray);
+// ─── Blockquote (stile giappone-style) ───────────────────────────────────────
+
+blockquote {
+  border-left: 4px solid var(--accent-warm-soft);
+  background: var(--accent-warm-bg);
+  border-radius: 0 8px 8px 0;
+  padding: 0.7rem 1.1rem;
+  margin: 1rem 0;
+  font-style: italic;
 }
 
-// ─── Link interni — senza sfondo highlight (stile Obsidian) ─────────────────
+// ─── Tabelle ─────────────────────────────────────────────────────────────────
+
+article table {
+  border-collapse: collapse;
+  width: 100%;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+}
+
+article table thead th {
+  background-color: rgba(210, 90, 10, 0.12);
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+article table th,
+article table td {
+  border: 1px solid var(--lightgray);
+  padding: 0.4rem 0.75rem;
+}
+
+article table tbody tr:last-child td {
+  font-weight: 600;
+  border-top: 2px solid var(--lightgray);
+}
+
+:root[saved-theme="dark"] article table tbody tr:nth-child(even) td {
+  background-color: rgba(255, 255, 255, 0.03);
+}
+:root[saved-theme="light"] article table tbody tr:nth-child(even) td {
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+// ─── Immagini ────────────────────────────────────────────────────────────────
+
+article img {
+  border-radius: 10px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.18);
+  max-width: 100%;
+  display: block;
+  margin: 0.8em auto;
+}
+
+// Didascalia: testo corsivo dopo un'immagine
+article img + em {
+  display: block;
+  text-align: center;
+  font-size: 0.82em;
+  opacity: 0.65;
+  margin-top: -0.4em;
+  margin-bottom: 0.8em;
+}
+
+// ─── Codice ──────────────────────────────────────────────────────────────────
+
+:root[saved-theme="dark"] pre {
+  background-color: #1d2d3a !important;
+}
+
+:root[saved-theme="dark"] code {
+  background-color: #1d2d3a;
+}
+
+// ─── Link interni — senza sfondo (stile Obsidian) ────────────────────────────
 
 a.internal {
   background-color: transparent !important;
@@ -48,39 +131,21 @@ a.internal {
   border-radius: 0 !important;
 }
 
-// ─── Blockquote ──────────────────────────────────────────────────────────────
+// ─── Sidebar sinistra ────────────────────────────────────────────────────────
 
-blockquote {
-  border-left-width: 4px;
-  border-radius: 0 4px 4px 0;
-  background-color: var(--highlight);
-  padding: 0.6rem 1rem;
+:root[saved-theme="dark"] .sidebar.left {
+  background-color: #1e2f3a;
 }
 
-// ─── Tabelle ─────────────────────────────────────────────────────────────────
-
-table {
-  border-collapse: collapse;
-  width: 100%;
+:root[saved-theme="light"] .sidebar.left {
+  background-color: #d6e5fb;
 }
 
-th {
-  background-color: var(--lightgray);
+.sidebar.left {
+  border-right: 1px solid var(--lightgray);
 }
 
-th, td {
-  border: 1px solid var(--lightgray);
-  padding: 0.4rem 0.8rem;
-}
-
-// ─── Titolo della pagina (sidebar) ───────────────────────────────────────────
-
-.page-title {
-  font-size: 1.1rem;
-  letter-spacing: 0.01em;
-}
-
-// ─── Explorer ────────────────────────────────────────────────────────────────
+// ─── Explorer file tree ──────────────────────────────────────────────────────
 
 .explorer-content .folder-button,
 .explorer-content .file-entry {
@@ -90,4 +155,29 @@ th, td {
   &:hover {
     background-color: var(--highlight);
   }
+}
+
+// ─── Mappe Leaflet ───────────────────────────────────────────────────────────
+
+.block-language-leaflet {
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.18);
+  margin: 1em 0;
+}
+
+// ─── Navigazione ← → in fondo (hr + paragrafo) ───────────────────────────────
+
+article hr + p {
+  text-align: center;
+  font-size: 1.05em;
+  letter-spacing: 0.08em;
+  margin-top: 1.2em;
+  opacity: 0.75;
+}
+
+// ─── Checkbox ────────────────────────────────────────────────────────────────
+
+input[type="checkbox"] {
+  accent-color: var(--accent-warm);
 }
