@@ -1,13 +1,19 @@
 ---
-tags: [giappone, kyoto, higashiyama, osaka, dotonbori, giorno-06]
+tags:
+  - giappone
+  - kyoto
+  - higashiyama
+  - osaka
+  - dotonbori
+  - giorno-06
 data: 2026-09-01
 destinazione: Kyoto → Osaka
-capitolo: "03 Kansai"
+capitolo: 03 Kansai
 giorno: 6
-banner: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1400"
+banner: https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1400
 banner_y: 0.5
-prev: "[[Giorno 05 - Kinkakuji Nara]]"
-next: "[[Giorno 07 - Castello Osaka Hiroshima Miyajima]]"
+prev: "[[Giorno 05 - 31 Ago - Kinkakuji Nara]]"
+next: "[[Giorno 07 - 2 Set - Castello Osaka Hiroshima Miyajima]]"
 ---
 
 # Giorno 06 — Higashiyama, Philosopher's Path → Osaka
@@ -91,7 +97,9 @@ Prende il nome dal filosofo **Nishida Kitarō** che lo percorreva quotidianament
 | **Durata** | 30 minuti |
 | **Costo** | ¥560 |
 
-Check-in hotel. Quartieri consigliati: **Namba** (centrale, vicino a Dotonbori) o **Shinsaibashi**.
+> [!info] 🏨 Hotel — Wellstay Osaka Shin-Imamiya Station
+> 📍 Shin-Imamiya, Naniwa-ku · Check-in: 1 set · Check-out: 4 set · **3 notti · 💶 149,94€ totali**
+> Zona Shinsekai — a piedi da Tsutenkaku (Giorno 08). Metro Midosuji Line → Namba: 2 fermate (~5 min).
 
 > [!info] Come raggiungere il Philosopher's Path da Ginkaku-ji a Kyoto Station
 > Da Ginkaku-ji: bus 100 o 5 → Kyoto Station (30 min, ¥230). Oppure taxi ~¥2.000.
@@ -145,10 +153,10 @@ Non sederti in un solo posto — assaggia in giro.
 | Ginkaku-ji | ¥500 |
 | Nanzen-ji giardino | ¥600 |
 | JR Shinkaisoku Kyoto→Osaka | ¥560 |
-| Hotel Osaka | ¥8.000–15.000 |
+| Hotel Osaka — Wellstay (1ª/3 notti) | €50 (~¥8.250) |
 | Cena street food | ¥2.500–4.000 |
 | **Totale** | **~¥13.000** (~€79) |
 
 ---
 
-← [[Giorno 05 - Kinkakuji Nara]] | → [[Giorno 07 - Castello Osaka Hiroshima Miyajima]]
+← [[Giorno 05 - 31 Ago - Kinkakuji Nara]] | → [[Giorno 07 - 2 Set - Castello Osaka Hiroshima Miyajima]]

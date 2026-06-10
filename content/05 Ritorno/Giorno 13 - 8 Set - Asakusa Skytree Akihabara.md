@@ -1,19 +1,25 @@
 ---
-tags: [giappone, tokyo, asakusa, ueno, akihabara, giorno-13]
+tags:
+  - giappone
+  - tokyo
+  - asakusa
+  - ueno
+  - akihabara
+  - giorno-13
 data: 2026-09-08
 destinazione: Tokyo
-capitolo: "05 Ritorno"
+capitolo: 05 Ritorno
 giorno: 13
-banner: "https://images.unsplash.com/photo-1492571350019-22de08371fd3?w=1400"
+banner: https://images.unsplash.com/photo-1492571350019-22de08371fd3?w=1400
 banner_y: 0.5
-prev: "[[Giorno 12 - Mattina Okinawa Volo NRT]]"
-next: "[[Giorno 14 - Harajuku Meiji Shibuya]]"
+prev: "[[Giorno 12 - 7 Set - Mattina Okinawa Volo NRT]]"
+next: "[[Giorno 14 - 9 Set - Harajuku Meiji Shibuya]]"
 ---
 
 # Giorno 13 — Asakusa, Skytree & Akihabara
 ### 📅 Martedì 8 settembre 2026
 
-> **Tema del giorno:** Ritorno nella capitale. Asakusa con occhi nuovi dopo 12 giorni nel paese — tra il tempio più antico di Tokyo e la capitale mondiale della cultura pop.
+> **Tema del giorno:** Partenza da Narita con il N'EX, poi Asakusa con occhi nuovi dopo 12 giorni nel paese — tra il tempio più antico di Tokyo e la capitale mondiale della cultura pop.
 
 ---
 
@@ -44,6 +50,16 @@ marker: default, 35.7023, 139.7745, "🎮 Akihabara (16:30)"
 ---
 
 ## ⏱️ Programma orario
+
+### 🕗 7:00 — N'EX da Narita → Ueno
+
+> [!info] Partenza dalla Narita — Holiday Inn Tobu Narita
+> Check-out hotel (o lascia i bagagli in deposito se il check-in Tokyo non è ancora disponibile).
+> **N'EX da Narita Airport** → **Ueno Station** (50 min, ¥3.070) · Primo treno utile ~6:30.
+> Da Ueno: **a piedi 15 min** verso est → Asakusa. Oppure Metro Ginza Line 1 fermata (¥180).
+> Check-in hotel Tokyo: consegna bagagli alla reception appena arrivi — la camera sarà pronta nel pomeriggio.
+
+---
 
 ### 🕢 7:30 — Senso-ji all'alba
 
@@ -162,6 +178,7 @@ Metro: Ueno → Akihabara (Hibiya Line, 2 min, ¥180)
 
 | Voce | Costo |
 |---|---|
+| N'EX Narita → Ueno | ¥3.070 |
 | Metro (IC Card) | ¥400–600 |
 | Tokyo Skytree (Tembo Deck) | ¥2.100 |
 | Tokyo National Museum (facolt.) | ¥1.000 |
@@ -180,4 +197,4 @@ Metro: Ueno → Akihabara (Hibiya Line, 2 min, ¥180)
 
 ---
 
-← [[Giorno 12 - Mattina Okinawa Volo NRT]] | → [[Giorno 14 - Harajuku Meiji Shibuya]]
+← [[Giorno 12 - 7 Set - Mattina Okinawa Volo NRT]] | → [[Giorno 14 - 9 Set - Harajuku Meiji Shibuya]]

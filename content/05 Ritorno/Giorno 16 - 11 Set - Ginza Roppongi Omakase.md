@@ -1,13 +1,19 @@
 ---
-tags: [giappone, tokyo, ginza, roppongi, omakase, giorno-16]
+tags:
+  - giappone
+  - tokyo
+  - ginza
+  - roppongi
+  - omakase
+  - giorno-16
 data: 2026-09-11
 destinazione: Tokyo
-capitolo: "05 Ritorno"
+capitolo: 05 Ritorno
 giorno: 16
-banner: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1400"
+banner: https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1400
 banner_y: 0.3
-prev: "[[Giorno 15 - Yanaka Shimokitazawa Shinjuku]]"
-next: "[[Giorno 17 - Partenza]]"
+prev: "[[Giorno 15 - 10 Set - Yanaka Shimokitazawa Shinjuku]]"
+next: "[[Giorno 17 - 12 Set - Partenza]]"
 ---
 
 # Giorno 16 — Ginza, Roppongi & Sushi Omakase Finale
@@ -142,4 +148,4 @@ Usa la mattina per:
 
 ---
 
-← [[Giorno 15 - Yanaka Shimokitazawa Shinjuku]] | → [[Giorno 17 - Partenza]]
+← [[Giorno 15 - 10 Set - Yanaka Shimokitazawa Shinjuku]] | → [[Giorno 17 - 12 Set - Partenza]]

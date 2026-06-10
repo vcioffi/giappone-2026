@@ -10,23 +10,23 @@ tags: [giappone, logistica, checklist, pre-partenza]
 
 ## 🚨 Da fare SUBITO (mesi prima)
 
-- [ ] **Hotel Kyoto** — prenotare con almeno 2–3 mesi di anticipo per agosto
-  - Preferibilmente a Gion o Kawaramachi per posizione centrale
-  - Necessario per 5 notti (28 agosto – 1 settembre)
+- [x] **Hotel Kyoto** — prenotare con almeno 2–3 mesi di anticipo per agosto
+  - Kyomachiya Ryokan Sakura Urushitei (Shimogyo-ku)
+  - Necessario per 4 notti (28 agosto – 1 settembre)
 
 - [ ] **Kikunoi Roan** Kyoto — prenotare 2 settimane prima
-  - ookura-restaurants.jp · Cena kaiseki il 28 agosto (primo giorno)
+  - ookura-restaurants.jp · Cena kaiseki il 28 agosto (primo giorno a Kyoto)
 
-- [ ] **Volo interno** Osaka (KIX) → Naha (OKA)
+- [x] **Volo interno** Osaka (KIX) → Naha (OKA)
   - Peach Air: flypeach.com (low cost, economico)
   - ANA: ana.co.jp (più comodo, bagaglio incluso)
   - Prenota insieme al volo internazionale
 
-- [ ] **Volo interno** Naha (OKA) → Tokyo Narita (NRT) — 7 settembre, 18:35
+- [x] **Volo interno** Naha (OKA) → Tokyo Narita (NRT) — 7 settembre, 18:35
   - Il volo interno atterra a Narita; il **volo di ritorno a Roma** del 12 Set. parte da **Haneda (HND)**
   - Peach Air o ANA
 
-- [ ] **Auto a noleggio Okinawa** — prenotare 2+ mesi prima
+- [x] **Auto a noleggio Okinawa** — prenotare 2+ mesi prima
   - Times Car Rental: timescar-rental.com/en/
   - Nippon Rent-a-Car: nipponrentacar.co.jp/en/
   - Porta **Patente Internazionale IDP** (rilasciata dall'ACI in Italia)
@@ -35,11 +35,11 @@ tags: [giappone, logistica, checklist, pre-partenza]
 
 ## 📅 Da fare 1 mese prima
 
-- [ ] **Hotel Tokyo** (4 notti) — Shinjuku o Asakusa
-- [ ] **Hotel Kyoto** (3 notti) — Gion o Kawaramachi
-- [ ] **Hotel Osaka** (3 notti) — Namba o Shinsaibashi
-- [ ] **Hotel Okinawa** (4 notti) — vicino a Naha o costa nord
-- [ ] **Hotel Tokyo finale** (1 notte) — Shinjuku o Ginza
+- [x] **Hotel Tokyo arrivo** (1 notte) — Ryofoku View Hotel, Shinjuku
+- [x] **Hotel Osaka** (3 notti) — Wellstay Osaka Shin-Imamiya Station, zona Shinsekai
+- [x] **Hotel Okinawa** (3 notti) — Naha centro, vicino Kokusai-dori
+- [x] **Hotel Narita** (1 notte, G12) — Holiday Inn Tobu Narita
+- [x] **Hotel Tokyo finale** (4 notti, G13–16) — Shinjuku o area centrale
 - [ ] **Sushi Omakase** — prenotare su Pocket Concierge (pocketconcierge.jp)
   - Almeno 2–3 settimane prima per ristoranti di fascia media
   - Pagamento anticipato con carta di credito

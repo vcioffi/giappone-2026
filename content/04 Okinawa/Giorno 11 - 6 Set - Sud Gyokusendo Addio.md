@@ -1,13 +1,19 @@
 ---
-tags: [giappone, okinawa, gyokusendo, pace, addio, giorno-11]
+tags:
+  - giappone
+  - okinawa
+  - gyokusendo
+  - pace
+  - addio
+  - giorno-11
 data: 2026-09-06
 destinazione: Okinawa — Sud
-capitolo: "04 Okinawa"
+capitolo: 04 Okinawa
 giorno: 11
-banner: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=1400"
+banner: https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=1400
 banner_y: 0.7
-prev: "[[Giorno 10 - Isole Kerama]]"
-next: "[[Giorno 12 - Mattina Okinawa Volo NRT]]"
+prev: "[[Giorno 10 - 5 Set - Isole Kerama]]"
+next: "[[Giorno 12 - 7 Set - Mattina Okinawa Volo NRT]]"
 ---
 
 # Giorno 11 — Grotte, Parco della Pace & Addio a Okinawa
@@ -132,4 +138,4 @@ Rientro a Naha. Shopping finale:
 
 ---
 
-← [[Giorno 10 - Isole Kerama]] | → [[Giorno 12 - Mattina Okinawa Volo NRT]]
+← [[Giorno 10 - 5 Set - Isole Kerama]] | → [[Giorno 12 - 7 Set - Mattina Okinawa Volo NRT]]

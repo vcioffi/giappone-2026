@@ -1,13 +1,18 @@
 ---
-tags: [giappone, osaka, kuromon, shinsekai, giorno-08]
+tags:
+  - giappone
+  - osaka
+  - kuromon
+  - shinsekai
+  - giorno-08
 data: 2026-09-03
 destinazione: Osaka
-capitolo: "03 Kansai"
+capitolo: 03 Kansai
 giorno: 8
-banner: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1400"
+banner: https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1400
 banner_y: 0.6
-prev: "[[Giorno 07 - Castello Osaka Hiroshima Miyajima]]"
-next: "[[Giorno 09 - Arrivo Naha Shuri]]"
+prev: "[[Giorno 07 - 2 Set - Castello Osaka Hiroshima Miyajima]]"
+next: "[[Giorno 09 - 4 Set - Arrivo Naha Shuri]]"
 ---
 
 # Giorno 08 — Kuromon, Shinsekai & Ultima sera a Osaka
@@ -120,6 +125,26 @@ Oppure cena completa all'izakaya:
 > - [ ] Prepara bagagli compatti (Peach Air: max 7kg in cabina, altrimenti paga stiva)
 > - [ ] Verifica prenotazione volo KIX→OKA e orario di partenza
 
+> [!important] 📦 STASERA — Spedisci le valigge a Tokyo con Takkyubin!
+> Prima di cenare, vai alla **reception** e chiedi di organizzare la spedizione Takkyubin (宅急便) all'hotel di Tokyo.
+>
+> **Cosa portare alla reception:**
+> - Nome e indirizzo completo dell'hotel di Tokyo
+> - Il tuo numero di telefono (o quello dell'hotel Tokyo)
+> - Data di consegna richiesta: **7 settembre**
+>
+> **Costo:** ~¥1.500–3.000 per valigia · ricevi ricevuta con numero di tracking
+>
+> Ad Okinawa viaggiate con **solo bagaglio a mano (max 7 kg)** — 3 notti leggere al mare!
+> Le valigge vi aspettano a Tokyo già in camera il 7 sera.
+>
+> → Dettagli completi: [[Takkyubin Spedizione Valigge]]
+>
+> - [ ] Chiedi Takkyubin alla reception (frase: *"Takkyubin onegaishimasu"*)
+> - [ ] Compila etichetta con indirizzo hotel Tokyo e data consegna 7 settembre
+> - [ ] Tieni la ricevuta con numero di tracking
+> - [ ] Pesa il bagaglio a mano che porti ad Okinawa (max 7 kg!)
+
 ---
 
 ## 💴 Budget del giorno
@@ -131,8 +156,9 @@ Oppure cena completa all'izakaya:
 | Pranzo Daruma | ¥2.000 |
 | Metro | ¥400 |
 | Cena izakaya | ¥2.500 |
-| **Totale** | **~¥7.000** (~€42) |
+| Hotel Osaka — Wellstay (3ª/3 notti) | €50 (v. [[Giorno 06 - 1 Set - Higashiyama Osaka\|G06]]) |
+| **Totale** | **~¥7.000 + €50 hotel** |
 
 ---
 
-← [[Giorno 07 - Castello Osaka Hiroshima Miyajima]] | → [[Giorno 09 - Arrivo Naha Shuri]]
+← [[Giorno 07 - 2 Set - Castello Osaka Hiroshima Miyajima]] | → [[Giorno 09 - 4 Set - Arrivo Naha Shuri]]

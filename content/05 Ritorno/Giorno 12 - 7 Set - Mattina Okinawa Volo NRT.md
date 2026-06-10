@@ -1,13 +1,19 @@
 ---
-tags: [giappone, okinawa, tokyo, volo, narita, giorno-12]
+tags:
+  - giappone
+  - okinawa
+  - tokyo
+  - volo
+  - narita
+  - giorno-12
 data: 2026-09-07
 destinazione: Okinawa → Tokyo
-capitolo: "05 Ritorno"
+capitolo: 05 Ritorno
 giorno: 12
-banner: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1400"
+banner: https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1400
 banner_y: 0.4
-prev: "[[Giorno 11 - Sud Gyokusendo Addio]]"
-next: "[[Giorno 13 - Asakusa Skytree Akihabara]]"
+prev: "[[Giorno 11 - 6 Set - Sud Gyokusendo Addio]]"
+next: "[[Giorno 13 - 8 Set - Asakusa Skytree Akihabara]]"
 ---
 
 # Giorno 12 — Mattina libera & Volo Naha → Tokyo
@@ -27,10 +33,10 @@ long: 130.0
 defaultZoom: 5
 marker: default, 26.1958, 127.6456, "✈️ Naha Airport OKA (partenza 18:35)"
 marker: default, 35.7648, 140.3864, "🛬 Narita Airport NRT (arrivo ~21:05)"
-marker: default, 35.6938, 139.7036, "🏨 Hotel Tokyo (solo check-in)"
+marker: default, 35.7773, 140.3158, "🏨 Holiday Inn Tobu Narita (notte 12)"
 ```
 
-`Naha OKA → [Volo 2h30] → Narita NRT → [N'EX] → Hotel Tokyo`
+`Naha OKA → [Volo 2h30] → Narita NRT → Holiday Inn Tobu Narita → [N'EX mattino] → Tokyo`
 
 ---
 
@@ -101,10 +107,11 @@ Arrivo stimato alle 21:05. Considera il tempo di sbarco + bagagli: **uscita dall
 |---|---|---|---|---|
 | **N'EX** (consigliato) | Narita Terminal | 80 min | ¥3.070 | Ultimo ~23:00 |
 | Limousine Bus | Narita | 90–120 min | ¥3.200 | Porta all'hotel |
-| **Hotel vicino Narita** | — | 15 min | — | Più comodo se arrivi tardi |
+| **Holiday Inn Tobu Narita** ✅ | — | 15 min | — | **Prenotato** — shuttle dall'aeroporto |
 
-> [!tip] Hotel a Narita per questa notte
-> Se prenoti un hotel vicino all'aeroporto (area Narita City), eviti un trasferimento notturno di 90 minuti. Buone opzioni: **Narita Excel Hotel Tokyu** o **APA Hotel Narita**. Il giorno dopo prendi il N'EX per Tokyo al mattino.
+> [!success] 🏨 Hotel confermato — Holiday Inn Tobu Narita
+> Niente trasferimento notturno da 90 minuti. Dall'aeroporto all'hotel: **15 minuti** (shuttle gratuito o taxi breve).
+> Il mattino del Giorno 13 prendi il **N'EX da Narita → Ueno** (50 min, ¥3.070) e inizia direttamente con Asakusa.
 
 > [!info] Come prendere il N'EX da Narita
 > Segui le indicazioni **JR** all'interno del terminal. Il desk JR è al piano B1. Acquista il biglietto alle macchinette o al desk. Gli ultimi treni tendono ad avere meno disponibilità — vai subito.
@@ -119,7 +126,7 @@ Arrivo stimato alle 21:05. Considera il tempo di sbarco + bagagli: **uscita dall
 | Pranzo aeroporto | ¥1.000–1.500 |
 | Duty free Okinawa | ¥0–5.000 |
 | N'EX o Limousine Bus | ¥3.070–3.200 |
-| Hotel (Narita o Tokyo) | ¥8.000–15.000 |
+| Holiday Inn Tobu Narita (1 notte) | — (prenotato) |
 | **Totale** | **~¥12.000–25.000** |
 
 ---
@@ -128,9 +135,17 @@ Arrivo stimato alle 21:05. Considera il tempo di sbarco + bagagli: **uscita dall
 
 - [ ] Consegna auto entro le 15:30 per sicurezza
 - [ ] Check-in online volo disponibile 24h prima
-- [ ] Prenota hotel Narita o Tokyo (vicino stazione per N'EX)
+- [x] ~~Prenota hotel Narita o Tokyo~~ → **Holiday Inn Tobu Narita** ✅
 - [ ] Domani mattina: N'EX verso Tokyo, check-in hotel, prima giornata di esplorazione
+
+> [!success] 🧳 Le vostre valigge vi aspettano a Tokyo!
+> Spedite da Osaka il **3 settembre** tramite Takkyubin, le valigge sono arrivate all'hotel di Tokyo giorni fa. Al check-in dite che aspettate bagagli spediti tramite **ヤマト運輸 (Yamato)** — l'hotel li ha in custodia e li porta in camera.
+>
+> - [ ] Al check-in: "Abbiamo valigge in arrivo tramite Takkyubin" *(sūtsukēsu o Yamato de okutta desu)*
+> - [ ] Verifica che tutte le valigie siano arrivate (usa numero di tracking dalla ricevuta)
+>
+> → [[Takkyubin Spedizione Valigge]]
 
 ---
 
-← [[Giorno 11 - Sud Gyokusendo Addio]] | → [[Giorno 13 - Asakusa Skytree Akihabara]]
+← [[Giorno 11 - 6 Set - Sud Gyokusendo Addio]] | → [[Giorno 13 - 8 Set - Asakusa Skytree Akihabara]]

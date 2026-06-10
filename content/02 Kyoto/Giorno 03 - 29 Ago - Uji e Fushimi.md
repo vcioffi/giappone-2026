@@ -1,13 +1,21 @@
 ---
-tags: [giappone, kyoto, uji, fushimi, matcha, sake, UNESCO, giorno-03]
+tags:
+  - giappone
+  - kyoto
+  - uji
+  - fushimi
+  - matcha
+  - sake
+  - UNESCO
+  - giorno-03
 data: 2026-08-29
 destinazione: Kyoto — Uji + Fushimi
-capitolo: "02 Kyoto"
+capitolo: 02 Kyoto
 giorno: 3
-banner: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1400"
+banner: https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1400
 banner_y: 0.4
-prev: "[[Giorno 02 - Arrivo Kyoto]]"
-next: "[[Giorno 04 - Fushimi Inari Arashiyama]]"
+prev: "[[Giorno 02 - 28 Ago - Arrivo Kyoto]]"
+next: "[[Giorno 04 - 30 Ago - Fushimi Inari Arashiyama]]"
 ---
 
 # Giorno 03 — Uji & Fushimi
@@ -175,7 +183,7 @@ La più antica casa del tè del mondo ancora in attività. Dalla famiglia Tsuen 
 ### 🕑 14:30 — Fushimi Inari — sentieri laterali
 
 > [!tip] Fushimi Inari nel pomeriggio
-> Domani mattina alle 6:30 tornerai a Fushimi Inari all'alba per la visita principale ([[Giorno 04 - Fushimi Inari Arashiyama]]). Oggi esplora i **sentieri laterali** meno noti che i turisti ignorano — molto più silenziosi e boscosi del corridoio principale.
+> Domani mattina alle 6:30 tornerai a Fushimi Inari all'alba per la visita principale ([[Giorno 04 - 30 Ago - Fushimi Inari Arashiyama]]). Oggi esplora i **sentieri laterali** meno noti che i turisti ignorano — molto più silenziosi e boscosi del corridoio principale.
 
 **Sentieri consigliati oggi:**
 - **Ōnishi-sha** — mini-santuario nascosto tra il verde a 15 min dalla base
@@ -260,4 +268,4 @@ JR Fushimi → Kyoto Station (15 min, ¥230) → cena in Gion o Pontochō
 
 ---
 
-← [[Giorno 02 - Arrivo Kyoto]] | → [[Giorno 04 - Fushimi Inari Arashiyama]]
+← [[Giorno 02 - 28 Ago - Arrivo Kyoto]] | → [[Giorno 04 - 30 Ago - Fushimi Inari Arashiyama]]

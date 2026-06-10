@@ -1,13 +1,19 @@
 ---
-tags: [giappone, osaka, hiroshima, miyajima, pace, giorno-07]
+tags:
+  - giappone
+  - osaka
+  - hiroshima
+  - miyajima
+  - pace
+  - giorno-07
 data: 2026-09-02
 destinazione: Osaka + Hiroshima + Miyajima
-capitolo: "03 Kansai"
+capitolo: 03 Kansai
 giorno: 7
-banner: "https://images.unsplash.com/photo-1569025591987-2a8eda28e7bc?w=1400"
+banner: https://images.unsplash.com/photo-1569025591987-2a8eda28e7bc?w=1400
 banner_y: 0.45
-prev: "[[Giorno 06 - Higashiyama Osaka]]"
-next: "[[Giorno 08 - Kuromon Shinsekai]]"
+prev: "[[Giorno 06 - 1 Set - Higashiyama Osaka]]"
+next: "[[Giorno 08 - 3 Set - Kuromon Shinsekai]]"
 ---
 
 # Giorno 07 — Castello di Osaka & Gita a Hiroshima + Miyajima
@@ -149,7 +155,8 @@ Traghetto + tram + Shinkansen da Hiroshima (~2h). Cena leggera al rientro.
 | Tram Hiroshima A/R | ¥560 |
 | Traghetto Miyajima A/R | ¥720 |
 | Pranzo/cena | ¥3.000 |
-| **Totale** | **~¥24.000** (~€145) |
+| Hotel Osaka — Wellstay (2ª/3 notti) | €50 (v. [[Giorno 06 - 1 Set - Higashiyama Osaka\|G06]]) |
+| **Totale** | **~¥24.000 + €50 hotel** |
 
 ---
 
@@ -161,4 +168,4 @@ Traghetto + tram + Shinkansen da Hiroshima (~2h). Cena leggera al rientro.
 
 ---
 
-← [[Giorno 06 - Higashiyama Osaka]] | → [[Giorno 08 - Kuromon Shinsekai]]
+← [[Giorno 06 - 1 Set - Higashiyama Osaka]] | → [[Giorno 08 - 3 Set - Kuromon Shinsekai]]

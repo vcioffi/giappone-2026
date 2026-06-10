@@ -1,13 +1,19 @@
 ---
-tags: [giappone, kyoto, arrivo, shinkansen, gion, giorno-02]
+tags:
+  - giappone
+  - kyoto
+  - arrivo
+  - shinkansen
+  - gion
+  - giorno-02
 data: 2026-08-28
 destinazione: Tokyo → Kyoto
-capitolo: "02 Kyoto"
+capitolo: 02 Kyoto
 giorno: 2
-banner: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1400"
+banner: https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1400
 banner_y: 0.5
-prev: "[[Giorno 01 - Arrivo]]"
-next: "[[Giorno 03 - Uji e Fushimi]]"
+prev: "[[Giorno 01 - 27 Ago - Arrivo]]"
+next: "[[Giorno 03 - 29 Ago - Uji e Fushimi]]"
 ---
 
 # Giorno 02 — Tokyo → Kyoto
@@ -194,4 +200,4 @@ La prima cena kaiseki vera di Kyoto: 10–12 portate stagionali, presentazione a
 
 ---
 
-← [[Giorno 01 - Arrivo]] | → [[Giorno 03 - Uji e Fushimi]]
+← [[Giorno 01 - 27 Ago - Arrivo]] | → [[Giorno 03 - 29 Ago - Uji e Fushimi]]

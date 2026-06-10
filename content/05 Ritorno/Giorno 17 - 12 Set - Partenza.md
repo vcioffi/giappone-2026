@@ -1,12 +1,17 @@
 ---
-tags: [giappone, tokyo, partenza, volo, giorno-17]
+tags:
+  - giappone
+  - tokyo
+  - partenza
+  - volo
+  - giorno-17
 data: 2026-09-12
 destinazione: Tokyo → Italia
-capitolo: "05 Ritorno"
+capitolo: 05 Ritorno
 giorno: 17
-banner: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1400"
+banner: https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1400
 banner_y: 0.5
-prev: "[[Giorno 16 - Ginza Roppongi Omakase]]"
+prev: "[[Giorno 16 - 11 Set - Ginza Roppongi Omakase]]"
 next: "[[🗾 Home]]"
 ---
 
@@ -133,4 +138,4 @@ Cercare il ramen più vicino a casa tua. Non sarà lo stesso. Ma ti porterà lì
 
 ---
 
-← [[Giorno 16 - Ginza Roppongi Omakase]] | → [[🗾 Home]]
+← [[Giorno 16 - 11 Set - Ginza Roppongi Omakase]] | → [[🗾 Home]]

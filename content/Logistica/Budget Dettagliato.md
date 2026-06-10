@@ -16,7 +16,7 @@ tags: [giappone, logistica, budget, soldi]
 | **Shinkansen Osaka↔Hiroshima A/R** | €118 | €118 | ¥9.720 × 2 |
 | **Treni locali Kansai** | €25 | €30 | Uji, Nara, KIX Haruka, N'EX Narita |
 | **Voli interni** | €80 | €180 | KIX→OKA (4 set) · OKA→NRT (7 set) |
-| **Alloggi** (16 notti) | €800 | €1.600 | Budget vs fascia media |
+| **Alloggi** (16 notti) | €800 | €1.600 | ✅ Osaka 3 notti: **149,94€** (Wellstay Shin-Imamiya) · ✅ Narita 1 notte: (Holiday Inn Tobu Narita) |
 | **Cibo** (17 giorni) | €400 | €700 | Street food → ristoranti |
 | **Trasporti locali** | €50 | €80 | IC Card + bus day pass |
 | **Ingressi** | €100 | €180 | Templi, musei, osservatori |

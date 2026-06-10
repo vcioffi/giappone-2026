@@ -1,13 +1,19 @@
 ---
-tags: [giappone, okinawa, kerama, zamami, snorkeling, giorno-10]
+tags:
+  - giappone
+  - okinawa
+  - kerama
+  - zamami
+  - snorkeling
+  - giorno-10
 data: 2026-09-05
 destinazione: Okinawa — Isole Kerama
-capitolo: "04 Okinawa"
+capitolo: 04 Okinawa
 giorno: 10
-banner: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=1400"
+banner: https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=1400
 banner_y: 0.3
-prev: "[[Giorno 09 - Arrivo Naha Shuri]]"
-next: "[[Giorno 11 - Sud Gyokusendo Addio]]"
+prev: "[[Giorno 09 - 4 Set - Arrivo Naha Shuri]]"
+next: "[[Giorno 11 - 6 Set - Sud Gyokusendo Addio]]"
 ---
 
 # Giorno 10 — Isole Kerama
@@ -133,4 +139,4 @@ Traghetto Zamami → Naha (50 min). Ritiro auto.
 
 ---
 
-← [[Giorno 09 - Arrivo Naha Shuri]] | → [[Giorno 11 - Sud Gyokusendo Addio]]
+← [[Giorno 09 - 4 Set - Arrivo Naha Shuri]] | → [[Giorno 11 - 6 Set - Sud Gyokusendo Addio]]

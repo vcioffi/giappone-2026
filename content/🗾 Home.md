@@ -66,36 +66,37 @@ marker: default, 35.7148, 139.7967, "🔴 Tokyo finale (Giorni 13–17)"
 ## 📅 Giorni
 
 ### 🔴 Tokyo arrivo
-- [[Giorno 01 - Arrivo]] — 27 agosto · 1 notte, partenza il giorno dopo
+- **Gio 27 ago** — [[Giorno 01 - 27 Ago - Arrivo]] — 1 notte, partenza il giorno dopo
 
 ### 🟢 Kyoto — arrivo
-- [[Giorno 02 - Arrivo Kyoto]] — 28 agosto · Shinkansen Tokyo→Kyoto · Gion serale
-- [[Giorno 03 - Uji e Fushimi]] — 29 agosto · Byodoin UNESCO · matcha Uji · distretto sake Fushimi
+- **Ven 28 ago** — [[Giorno 02 - 28 Ago - Arrivo Kyoto]] — Shinkansen Tokyo→Kyoto · Gion serale
+- **Sab 29 ago** — [[Giorno 03 - 29 Ago - Uji e Fushimi]] — Byodoin UNESCO · matcha Uji · distretto sake Fushimi
 
 ### 🟢 Kansai
-- [[Giorno 04 - Fushimi Inari Arashiyama]] — 30 agosto
-- [[Giorno 05 - Kinkakuji Nara]] — 31 agosto
-- [[Giorno 06 - Higashiyama Osaka]] — 1 settembre · Kyoto → Osaka
-- [[Giorno 07 - Castello Osaka Hiroshima Miyajima]] — 2 settembre
-- [[Giorno 08 - Kuromon Shinsekai]] — 3 settembre
+- **Dom 30 ago** — [[Giorno 04 - 30 Ago - Fushimi Inari Arashiyama]]
+- **Lun 31 ago** — [[Giorno 05 - 31 Ago - Kinkakuji Nara]]
+- **Mar 1 set** — [[Giorno 06 - 1 Set - Higashiyama Osaka]] — Kyoto → Osaka
+- **Mer 2 set** — [[Giorno 07 - 2 Set - Castello Osaka Hiroshima Miyajima]]
+- **Gio 3 set** — [[Giorno 08 - 3 Set - Kuromon Shinsekai]]
 
 ### 🔵 Okinawa
-- [[Giorno 09 - Arrivo Naha Shuri]] — 4 settembre · volo KIX→OKA
-- [[Giorno 10 - Isole Kerama]] — 5 settembre
-- [[Giorno 11 - Sud Gyokusendo Addio]] — 6 settembre
+- **Ven 4 set** — [[Giorno 09 - 4 Set - Arrivo Naha Shuri]] — volo KIX→OKA
+- **Sab 5 set** — [[Giorno 10 - 5 Set - Isole Kerama]]
+- **Dom 6 set** — [[Giorno 11 - 6 Set - Sud Gyokusendo Addio]]
 
 ### 🔴 Ritorno Tokyo
-- [[Giorno 12 - Mattina Okinawa Volo NRT]] — 7 settembre · volo OKA→NRT 18:35
-- [[Giorno 13 - Asakusa Skytree Akihabara]] — 8 settembre
-- [[Giorno 14 - Harajuku Meiji Shibuya]] — 9 settembre
-- [[Giorno 15 - Yanaka Shimokitazawa Shinjuku]] — 10 settembre
-- [[Giorno 16 - Ginza Roppongi Omakase]] — 11 settembre
-- [[Giorno 17 - Partenza]] — 12 settembre · volo NRT 12:40
+- **Lun 7 set** — [[Giorno 12 - 7 Set - Mattina Okinawa Volo NRT]] — volo OKA→NRT 18:35
+- **Mar 8 set** — [[Giorno 13 - 8 Set - Asakusa Skytree Akihabara]]
+- **Mer 9 set** — [[Giorno 14 - 9 Set - Harajuku Meiji Shibuya]]
+- **Gio 10 set** — [[Giorno 15 - 10 Set - Yanaka Shimokitazawa Shinjuku]]
+- **Ven 11 set** — [[Giorno 16 - 11 Set - Ginza Roppongi Omakase]]
+- **Sab 12 set** — [[Giorno 17 - 12 Set - Partenza]] — volo HND 12:40
 
 ---
 
 ## 📋 Logistica
 
+- [[Hotel]] — tutti gli alloggi del viaggio · 16 notti · dettagli e checklist prenotazioni
 - [[IC Card Suica]] — metro e pagamenti quotidiani
 - [[Voli Interni]] — KIX→OKA (4 set) · OKA→NRT (7 set ore 18:35)
 - [[Auto Okinawa]] — noleggio e guida a sinistra · 3 giorni (4–6 set)

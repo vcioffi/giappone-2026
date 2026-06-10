@@ -1,13 +1,17 @@
 ---
-tags: [giappone, tokyo, arrivo, giorno-01]
+tags:
+  - giappone
+  - tokyo
+  - arrivo
+  - giorno-01
 data: 2026-08-27
 destinazione: Tokyo
-capitolo: "01 Tokyo"
+capitolo: 01 Tokyo
 giorno: 1
-banner: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1400"
+banner: https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1400
 banner_y: 0.5
 prev: "[[🗾 Home]]"
-next: "[[Giorno 02 - Arrivo Kyoto]]"
+next: "[[Giorno 02 - 28 Ago - Arrivo Kyoto]]"
 ---
 
 # Giorno 01 — Arrivo a Tokyo
@@ -169,4 +173,4 @@ Dopo cena, passeggiata a:
 
 ---
 
-← [[🗾 Home]] | → [[Giorno 02 - Arrivo Kyoto]]
+← [[🗾 Home]] | → [[Giorno 02 - 28 Ago - Arrivo Kyoto]]

@@ -1,13 +1,19 @@
 ---
-tags: [giappone, kyoto, fushimi-inari, arashiyama, bamboo, giorno-04]
+tags:
+  - giappone
+  - kyoto
+  - fushimi-inari
+  - arashiyama
+  - bamboo
+  - giorno-04
 data: 2026-08-30
 destinazione: Kyoto
-capitolo: "03 Kansai"
+capitolo: 03 Kansai
 giorno: 4
-banner: "https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=1400"
+banner: https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=1400
 banner_y: 0.5
-prev: "[[Giorno 03 - Uji e Fushimi]]"
-next: "[[Giorno 05 - Kinkakuji Nara]]"
+prev: "[[Giorno 03 - 29 Ago - Uji e Fushimi]]"
+next: "[[Giorno 05 - 31 Ago - Kinkakuji Nara]]"
 ---
 
 # Giorno 04 — Fushimi Inari & Arashiyama
@@ -150,4 +156,4 @@ Bus 28 Arashiyama → Gion (35 min, day pass) — scendi a **Gionshijo**
 
 ---
 
-← [[Giorno 03 - Alba e partenza per Kyoto]] | → [[Giorno 05 - Kinkakuji Nara]]
+← [[Giorno 03 - Alba e partenza per Kyoto]] | → [[Giorno 05 - 31 Ago - Kinkakuji Nara]]

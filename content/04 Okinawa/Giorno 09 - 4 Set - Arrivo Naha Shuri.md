@@ -1,13 +1,20 @@
 ---
-tags: [giappone, okinawa, naha, shuri, ryukyu, volo, giorno-09]
+tags:
+  - giappone
+  - okinawa
+  - naha
+  - shuri
+  - ryukyu
+  - volo
+  - giorno-09
 data: 2026-09-04
 destinazione: Osaka → Okinawa — Naha
-capitolo: "04 Okinawa"
+capitolo: 04 Okinawa
 giorno: 9
-banner: "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=1400"
+banner: https://images.unsplash.com/photo-1490730141103-6cac27aaab94?w=1400
 banner_y: 0.4
-prev: "[[Giorno 08 - Kuromon Shinsekai]]"
-next: "[[Giorno 10 - Isole Kerama]]"
+prev: "[[Giorno 08 - 3 Set - Kuromon Shinsekai]]"
+next: "[[Giorno 10 - 5 Set - Isole Kerama]]"
 ---
 
 # Giorno 09 — Volo per Okinawa & Arrivo a Naha
@@ -45,6 +52,14 @@ marker: default, 26.2166, 127.6881, "🛍️ Kokusai-dori"
 ## ⏱️ Programma orario
 
 ### 🕘 9:00 — Check-out & trasferimento a KIX
+
+> [!check] ✅ Verifica Takkyubin prima di uscire
+> Prima del check-out, conferma con la reception che le valigge spedite ieri sera sono state **già ritirate** da Yamato. Se non fossero ancora state ritirate, aspetta il corriere o riorganizza con il personale.
+> → [[Takkyubin Spedizione Valigge]]
+>
+> - [ ] Valigge ritirate dal corriere Yamato? ✓
+> - [ ] Hai la ricevuta con numero tracking?
+> - [ ] Il bagaglio a mano è ≤ 7 kg per Peach Air?
 
 Check-out dall'hotel. Raggiungi **Kansai International Airport (KIX)**:
 
@@ -175,4 +190,4 @@ marker: default, 26.2160, 127.7190, "⛩️ Shurei-mon (porta)"
 
 ---
 
-← [[Giorno 08 - Kuromon Shinsekai]] | → [[Giorno 10 - Isole Kerama]]
+← [[Giorno 08 - 3 Set - Kuromon Shinsekai]] | → [[Giorno 10 - 5 Set - Isole Kerama]]

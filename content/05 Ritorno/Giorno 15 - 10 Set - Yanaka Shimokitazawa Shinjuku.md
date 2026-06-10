@@ -1,13 +1,19 @@
 ---
-tags: [giappone, tokyo, yanaka, shimokitazawa, shinjuku, giorno-15]
+tags:
+  - giappone
+  - tokyo
+  - yanaka
+  - shimokitazawa
+  - shinjuku
+  - giorno-15
 data: 2026-09-10
 destinazione: Tokyo
-capitolo: "05 Ritorno"
+capitolo: 05 Ritorno
 giorno: 15
-banner: "https://images.unsplash.com/photo-1492571350019-22de08371fd3?w=1400"
+banner: https://images.unsplash.com/photo-1492571350019-22de08371fd3?w=1400
 banner_y: 0.7
-prev: "[[Giorno 14 - Harajuku Meiji Shibuya]]"
-next: "[[Giorno 16 - Ginza Roppongi Omakase]]"
+prev: "[[Giorno 14 - 9 Set - Harajuku Meiji Shibuya]]"
+next: "[[Giorno 16 - 11 Set - Ginza Roppongi Omakase]]"
 ---
 
 # Giorno 15 — Yanaka, Shimokitazawa & Shinjuku
@@ -160,4 +166,4 @@ Il "Vicolo dei Ricordi": 20 minuscoli yakitori bar in una traversa di 10 metri. 
 
 ---
 
-← [[Giorno 14 - Harajuku Meiji Shibuya]] | → [[Giorno 16 - Ginza Roppongi Omakase]]
+← [[Giorno 14 - 9 Set - Harajuku Meiji Shibuya]] | → [[Giorno 16 - 11 Set - Ginza Roppongi Omakase]]

@@ -1,13 +1,19 @@
 ---
-tags: [giappone, kyoto, nara, kinkakuji, cervi, giorno-05]
+tags:
+  - giappone
+  - kyoto
+  - nara
+  - kinkakuji
+  - cervi
+  - giorno-05
 data: 2026-08-31
 destinazione: Kyoto + Nara
-capitolo: "03 Kansai"
+capitolo: 03 Kansai
 giorno: 5
-banner: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1400"
+banner: https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=1400
 banner_y: 0.5
-prev: "[[Giorno 04 - Fushimi Inari Arashiyama]]"
-next: "[[Giorno 06 - Higashiyama Osaka]]"
+prev: "[[Giorno 04 - 30 Ago - Fushimi Inari Arashiyama]]"
+next: "[[Giorno 06 - 1 Set - Higashiyama Osaka]]"
 ---
 
 # Giorno 05 — Kinkaku-ji, Nishiki Market & Nara
@@ -150,4 +156,4 @@ Treno di ritorno. Cena a **Pontochō** — il vicolo con ristoranti sul Kamo Riv
 
 ---
 
-← [[Giorno 04 - Fushimi Inari Arashiyama]] | → [[Giorno 06 - Higashiyama Osaka]]
+← [[Giorno 04 - 30 Ago - Fushimi Inari Arashiyama]] | → [[Giorno 06 - 1 Set - Higashiyama Osaka]]

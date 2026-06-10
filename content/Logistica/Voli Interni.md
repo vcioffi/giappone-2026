@@ -97,4 +97,4 @@ tags: [giappone, logistica, voli-interni, okinawa, osaka]
 
 ---
 
-*Vedi anche: [[Checklist Pre-Partenza]] · [[Giorno 09 - Arrivo Naha Shuri]] · [[Giorno 12 - Mattina Okinawa Volo NRT]]*
+*Vedi anche: [[Checklist Pre-Partenza]] · [[Giorno 09 - 4 Set - Arrivo Naha Shuri]] · [[Giorno 12 - 7 Set - Mattina Okinawa Volo NRT]]*

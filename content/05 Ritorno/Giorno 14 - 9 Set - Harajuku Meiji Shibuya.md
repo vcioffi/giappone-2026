@@ -1,13 +1,19 @@
 ---
-tags: [giappone, tokyo, harajuku, shibuya, meiji, giorno-14]
+tags:
+  - giappone
+  - tokyo
+  - harajuku
+  - shibuya
+  - meiji
+  - giorno-14
 data: 2026-09-09
 destinazione: Tokyo
-capitolo: "05 Ritorno"
+capitolo: 05 Ritorno
 giorno: 14
-banner: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1400"
+banner: https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1400
 banner_y: 0.5
-prev: "[[Giorno 13 - Asakusa Skytree Akihabara]]"
-next: "[[Giorno 15 - Yanaka Shimokitazawa Shinjuku]]"
+prev: "[[Giorno 13 - 8 Set - Asakusa Skytree Akihabara]]"
+next: "[[Giorno 15 - 10 Set - Yanaka Shimokitazawa Shinjuku]]"
 ---
 
 # Giorno 14 — Harajuku, Meiji Jingu & Shibuya
@@ -189,4 +195,4 @@ A piedi da Shibuya (15 min verso est) o 1 fermata di treno:
 
 ---
 
-← [[Giorno 13 - Asakusa Skytree Akihabara]] | → [[Giorno 15 - Yanaka Shimokitazawa Shinjuku]]
+← [[Giorno 13 - 8 Set - Asakusa Skytree Akihabara]] | → [[Giorno 15 - 10 Set - Yanaka Shimokitazawa Shinjuku]]
