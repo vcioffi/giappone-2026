@@ -118,7 +118,7 @@ Rientro a Naha. Shopping finale:
 
 > [!warning] Domani: volo OKA→NRT ore 18:35
 > Organizza bene la giornata finale:
-> - [ ] Check-out hotel e **consegna auto** entro le 15:00–15:30
+> - [ ] Check-out **The Royal Park Iconic Naha** e **consegna auto** entro le 15:00–15:30
 > - [ ] Ultimi souvenir in aeroporto (duty free: awamori, chinsuko, cosmetici)
 > - [ ] Volo **Naha OKA → Tokyo NRT** ore **18:35** · arrivo ~21:05
 > - [ ] Prenota hotel vicino a Narita o raggiungibile con N'EX (serata solo check-in)

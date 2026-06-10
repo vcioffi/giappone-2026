@@ -184,7 +184,7 @@ marker: default, 26.2160, 127.7190, "⛩️ Shurei-mon (porta)"
 | Auto noleggio (primo giorno) | ¥5.000–8.000 |
 | Castello Shuri | ¥400–800 |
 | Benzina | ¥500 |
-| Hotel | ¥8.000–15.000 |
+| Hotel — The Royal Park Iconic Naha ✅ | ¥8.000–15.000 |
 | Cena | ¥2.500–4.000 |
 | **Totale** | **~¥25.000–50.000** |
 
