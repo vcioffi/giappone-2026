@@ -31,7 +31,7 @@ tags: [giappone, logistica, budget, soldi]
 
 | Giorno | Destinazione | Budget stimato |
 |---|---|---|
-| 01 | Tokyo arrivo (1 notte) | ¥13.000–56.000 |
+| 01 | Tokyo arrivo (1 notte) | ¥2.500–4.000 *(acquisto biglietto Shinkansen G02 in questo giorno — contabilizzato in G02)* |
 | 02 | Tokyo → Kyoto arrivo | ¥18.000–33.000 |
 | 03 | Uji (matcha) + Fushimi (sake) | ¥6.000–11.000 |
 | 04 | Kyoto — Fushimi/Arashiyama | ¥8.000 |

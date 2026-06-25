@@ -134,10 +134,10 @@ Ogni 2 minuti il semaforo diventa verde in **tutte le direzioni** contemporaneam
 | Osservatorio | Altezza | Costo | Note |
 |---|---|---|---|
 | Starbucks Scramble Square | N/A | Solo caffè | Finestre sull'incrocio, gratuito con acquisto |
-| Shibuya Sky | 229m | ¥2.000 | Roof-top aperto, vento, vista 360° — prenota online |
+| Shibuya Sky | 229m | ¥3.000 (prima 15:00) / ¥3.700 (dopo 15:00) | Roof-top aperto, vento, vista 360° — prenota online |
 
 > [!warning] Shibuya Sky — prenota
-> È quasi sempre esaurito. Prenota su shibuyasky.jp con qualche giorno di anticipo. Vale molto la pena, soprattutto di sera.
+> È quasi sempre esaurito. Prenota su shibuya-scramble-square.com/sky/ticket/ con qualche giorno di anticipo. Vale molto la pena, soprattutto di sera.
 
 **Statua di Hachikō** — il cane Akita che aspettò il padrone morto per 9 anni. All'uscita **Hachiko** della stazione. Punto di incontro classico dei tokyoiti.
 
@@ -178,7 +178,7 @@ A piedi da Shibuya (15 min verso est) o 1 fermata di treno:
 | Voce | Costo |
 |---|---|
 | Metro (IC Card) | ¥400 |
-| Shibuya Sky | ¥2.000 |
+| Shibuya Sky | ¥3.000–3.700 |
 | Crepe Harajuku | ¥700 |
 | Pranzo ramen | ¥1.500 |
 | Cena Tonki | ¥2.200 |

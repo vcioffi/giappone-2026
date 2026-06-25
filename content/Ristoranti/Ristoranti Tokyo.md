@@ -93,7 +93,7 @@ Cucini tu l'okonomiyaki sul fornello al centro del tavolo. Atmosfera showa-era a
 💴 ¥12.000–30.000+ a persona
 
 **Piattaforme di prenotazione:**
-- **Pocket Concierge** (pocketconcierge.jp) — migliore selezione, English OK
+- **Pocket Concierge** (pocket-concierge.jp/en) — migliore selezione, English OK
 - **Tableall** (tableall.com) — alternativa valida
 - **Omakase** (omakase.jp) — per chi legge il giapponese
 

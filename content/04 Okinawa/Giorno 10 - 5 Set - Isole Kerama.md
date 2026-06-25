@@ -63,9 +63,9 @@ Parcheggia l'auto al **Tomari Port** di Naha (parcheggio a pagamento, ¥500–80
 | **Da** | Tomari Port, Naha |
 | **A** | Zamami Island |
 | **Durata** | 50 minuti |
-| **Costo A/R** | ¥2.730 |
+| **Costo A/R** | ¥5.970 (Queen Zamami) · ¥2.900 solo andata (Ferry Zamami 3, 120 min) |
 | **Orario** | Partenza 9:00 · Ritorno 16:00 o 17:00 |
-| **Prenotazione** | ✅ OBBLIGATORIA su zamami.jp |
+| **Prenotazione** | ✅ OBBLIGATORIA su yoyaku.vill.zamami.okinawa.jp |
 
 > [!tip] Kerama Blue
 > L'acqua delle Isole Kerama ha trasparenza e colore talmente specifici che i giapponesi hanno coniato il termine "Kerama Blue" (慶良間ブルー). Visibilità media 30–40m. È l'acqua più limpida dell'Asia orientale.
@@ -130,12 +130,12 @@ Traghetto Zamami → Naha (50 min). Ritiro auto.
 | Voce | Costo |
 |---|---|
 | Parcheggio Tomari | ¥600 |
-| Traghetto A/R | ¥2.730 |
+| Traghetto A/R | ¥5.970 |
 | Noleggio snorkeling | ¥500 |
 | Kayak 2h | ¥3.500 |
 | Pranzo | ¥1.000 |
 | Cena izakaya | ¥2.500 |
-| **Totale** | **~¥11.000** (~€67) |
+| **Totale** | **~¥14.000** (~€85) |
 
 ---
 

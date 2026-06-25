@@ -276,7 +276,7 @@ Roma ✈️ → Tokyo (1 notte) → Kyoto/Kansai (7 notti)
 | Orario | Evento |
 |---|---|
 | 08:00 | Auto → Tomari Port, Naha (parcheggio ¥500–800) |
-| **09:00** | 🚢 **Traghetto Queen Zamami** → Zamami Island (50 min, ¥2.730 A/R) |
+| **09:00** | 🚢 **Traghetto Queen Zamami** → Zamami Island (50 min, ¥5.970 A/R) |
 | 10:00 | 🤿 Furuzamami Beach — snorkeling (maschera+pinne ¥500) |
 | 13:00 | Pranzo sull'isola (¥800–1.200) |
 | 14:00 | 🚣 Kayak → Ama Beach + baie nascoste (¥3.000–4.000 per 2h) |
@@ -284,10 +284,10 @@ Roma ✈️ → Tokyo (1 notte) → Kyoto/Kansai (7 notti)
 | 19:30 | Cena: Urizun Izakaya (dal 1972, musica sanshin live) |
 
 **Note pratiche:**
-- 🔴 Prenotazione traghetto **OBBLIGATORIA** su zamami.jp
+- 🔴 Prenotazione traghetto **OBBLIGATORIA** su yoyaku.vill.zamami.okinawa.jp
 - Tartarughe marine frequenti — visibilità 30–40m
 
-**Budget stimato:** ~¥11.000
+**Budget stimato:** ~¥14.000
 
 ---
 
@@ -356,7 +356,7 @@ Roma ✈️ → Tokyo (1 notte) → Kyoto/Kansai (7 notti)
 | 10:30 | Omotesandō — Prada (Herzog & de Meuron), Omotesando Hills (Tadao Ando) |
 | 12:30 | Pranzo: Afuri Ramen Yuzu (¥1.200–1.800) |
 | 14:00 | 🚦 Shibuya Scramble Crossing — osserva dall'alto poi attraversa |
-| 14:00 | Shibuya Sky osservatorio 229m (¥2.000, prenota su shibuyasky.jp) |
+| 14:00 | Shibuya Sky osservatorio 229m (¥3.000–3.700, prenota su shibuya-scramble-square.com/sky/ticket/) |
 | 14:00 | Statua di Hachikō — uscita Hachiko della stazione |
 | 16:30 | Shibuya 109 + Tokyu Hands + Don Quijote |
 | 17:30 | Daikanyama — Tsutaya Books (aperta 7:00–2:00) |
@@ -394,7 +394,7 @@ Roma ✈️ → Tokyo (1 notte) → Kyoto/Kansai (7 notti)
 | 16:00 | 🎨 Roppongi Hills — Mori Art Museum 54° piano (¥2.000) + Tokyo City View |
 | **19:30** | 🍣 **Sushi Omakase** — l'esperienza gastronomica definitiva |
 
-**Omakase — prenotazione:** Pocket Concierge (pocketconcierge.jp) o Tableall (tableall.com) — prenota settimane prima!
+**Omakase — prenotazione:** Pocket Concierge (pocket-concierge.jp/en) o Tableall (tableall.com) — prenota settimane prima!
 
 | Fascia | Prezzo |
 |---|---|
@@ -440,7 +440,7 @@ Roma ✈️ → Tokyo (1 notte) → Kyoto/Kansai (7 notti)
 | Nozomi Shinkansen | Osaka ↔ Hiroshima A/R | 2 Set | ¥19.440 |
 | Ferry | Miyajimaguchi ↔ Miyajima A/R | 2 Set | ¥720 |
 | Haruka Express | Osaka → KIX | 4 Set | ¥3.060 |
-| Queen Zamami Ferry | Naha ↔ Zamami A/R | 5 Set | ¥2.730 |
+| Queen Zamami Ferry | Naha ↔ Zamami A/R | 5 Set | ¥5.970 |
 | N'EX | Narita → Tokyo | 7 Set | ¥3.070 |
 | Keikyu Airport | Shinagawa ↔ Haneda | 27 Ago + 12 Set | ¥660 |
 
@@ -451,10 +451,10 @@ Roma ✈️ → Tokyo (1 notte) → Kyoto/Kansai (7 notti)
 | Notti | Destinazione | Tipo | Note |
 |---|---|---|---|
 | 1 | Shinjuku, Tokyo | Hotel | Ryofoku View Hotel |
-| 5 | Kyoto | Hotel | Gion / Kawaramachi consigliato — prenota 2–3 mesi prima |
+| 4 | Kyoto | Hotel | Gion / Kawaramachi consigliato — prenota 2–3 mesi prima |
 | 3 | Osaka | Hotel | Namba / Shinsaibashi |
 | 3 | Naha, Okinawa | Hotel | Centro Naha, vicino Kokusai-dori |
-| 5 | Tokyo (ritorno) | Hotel | Vicino stazione metro |
+| 4 | Tokyo (ritorno) | Hotel | La'gent Hotel Shinjuku Kabukicho |
 
 ---
 
@@ -480,16 +480,16 @@ Roma ✈️ → Tokyo (1 notte) → Kyoto/Kansai (7 notti)
 
 | Giorno | Destinazione | Budget stimato |
 |:---:|---|---|
-| 01 | Tokyo arrivo | ¥2.500–4.000 |
+| 01 | Tokyo arrivo | ¥2.500–4.000 *(acquisto biglietto Shinkansen G02 in questo giorno — contabilizzato in G02)* |
 | 02 | Tokyo → Kyoto arrivo | ¥18.000–33.000 |
 | 03 | Uji (matcha) + Fushimi (sake) | ¥6.000–11.000 |
 | 04 | Kyoto (Fushimi/Arashiyama) | ~¥8.000 |
 | 05 | Kyoto + Nara | ~¥10.000 |
 | 06 | Kyoto → Osaka | ~¥13.000 |
-| 07 | Osaka + Hiroshima | ~¥5.000 |
+| 07 | Osaka + Hiroshima | ~¥24.000 |
 | 08 | Osaka finale | ~¥7.000 |
 | 09 | Volo → Okinawa | ¥25.000–50.000 |
-| 10 | Isole Kerama | ~¥11.000 |
+| 10 | Isole Kerama | ~¥14.000 |
 | 11 | Okinawa Sud | ¥10.000–18.000 |
 | 12 | Volo → Tokyo | ¥12.000–25.000 |
 | 13 | Tokyo (Asakusa/Akihabara) | ¥7.000–9.000 |
@@ -525,7 +525,7 @@ Roma ✈️ → Tokyo (1 notte) → Kyoto/Kansai (7 notti)
 - [ ] Ottenere IDP (Permesso di Guida Internazionale) per guidare in Giappone
 - [ ] Comprare/prenotare SIM dati o pocket WiFi
 - [ ] Controllare orario maree Miyajima (tide-forecast.com) prima del 2 Set
-- [ ] Prenotare Shibuya Sky su shibuyasky.jp
+- [ ] Prenotare Shibuya Sky su shibuya-scramble-square.com/sky/ticket/
 
 ---
 
